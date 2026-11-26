@@ -1,0 +1,24 @@
+[
+  {
+    "role": "asr",
+    "repo_id": "mlx-community/Qwen3-ASR-0.6B-8bit",
+    "revision": "89e96d92ba34aca20b3e29fb10cc284097d1219f",
+    "allow_patterns": [
+      "*.json",
+      "*.txt",
+      "*.safetensors"
+    ],
+    "path": "/Users/wagr/.cache/huggingface/hub/models--mlx-community--Qwen3-ASR-0.6B-8bit/snapshots/89e96d92ba34aca20b3e29fb10cc284097d1219f"
+  },
+  {
+    "role": "tts",
+    "repo_id": "mlx-community/Kokoro-82M-bf16",
+    "revision": "a71e4d38b236d968966a2002c4c895dbd12b1c3c",
+    "allow_patterns": [
+      "config.json",
+      "kokoro-v1_0.safetensors",
+      "voices/*.safetensors"
+    ],
+    "path": "/Users/wagr/.cache/huggingface/hub/models--mlx-community--Kokoro-82M-bf16/snapshots/a71e4d38b236d968966a2002c4c895dbd12b1c3c"
+  }
+]

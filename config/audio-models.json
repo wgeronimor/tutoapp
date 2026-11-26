@@ -1,0 +1,27 @@
+[
+  {
+    "role": "asr",
+    "repo_id": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+    "revision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+    "path": "/Users/wagr/.cache/huggingface/hub/models--mlx-community--whisper-large-v3-turbo-asr-fp16/snapshots/624c19c9af5603fa73b83bce14d4aeea96156d18",
+    "engine": "whisper"
+  },
+  {
+    "role": "asr_secondary",
+    "repo_id": "mlx-community/Qwen3-ASR-1.7B-8bit",
+    "revision": "a8379a2e2f9e313c9292cdf1af4055ab56d50d55",
+    "path": "/Users/wagr/.cache/huggingface/hub/models--mlx-community--Qwen3-ASR-1.7B-8bit/snapshots/a8379a2e2f9e313c9292cdf1af4055ab56d50d55",
+    "engine": "qwen3_asr"
+  },
+  {
+    "role": "tts",
+    "repo_id": "mlx-community/Kokoro-82M-bf16",
+    "revision": "a71e4d38b236d968966a2002c4c895dbd12b1c3c",
+    "allow_patterns": [
+      "config.json",
+      "kokoro-v1_0.safetensors",
+      "voices/*.safetensors"
+    ],
+    "path": "/Users/wagr/.cache/huggingface/hub/models--mlx-community--Kokoro-82M-bf16/snapshots/a71e4d38b236d968966a2002c4c895dbd12b1c3c"
+  }
+]

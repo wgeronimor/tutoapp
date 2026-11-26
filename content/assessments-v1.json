@@ -1,0 +1,973 @@
+{
+  "version": "assessment-1",
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Control semanal 1 · Rencontrer un collègue",
+      "activities": [
+        {
+          "key": "eval:1:reading:0",
+          "title": "Lire · question 1",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Comment s’appelle la personne ? Réponds sans aide au premier essai.",
+          "material": "Bonjour, je m’appelle Rémi. Je viens de France. J’habite à Ottawa. Je parle français et espagnol. Je travaille dans une école.",
+          "reference": "Bonjour, je m’appelle Rémi. Je viens de France. J’habite à Ottawa. Je parle français et espagnol. Je travaille dans une école.",
+          "accepted": [
+            "Rémi"
+          ],
+          "options": [
+            "Marc",
+            "Rémi"
+          ],
+          "explanation": "Le message donne cette information : Rémi. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w1:reading:0",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:1:reading:1",
+          "title": "Lire · question 2",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "D’où vient-elle ? Réponds sans aide au premier essai.",
+          "material": "Bonjour, je m’appelle Rémi. Je viens de France. J’habite à Ottawa. Je parle français et espagnol. Je travaille dans une école.",
+          "reference": "Bonjour, je m’appelle Rémi. Je viens de France. J’habite à Ottawa. Je parle français et espagnol. Je travaille dans une école.",
+          "accepted": [
+            "De France"
+          ],
+          "options": [
+            "De France",
+            "Du Canada"
+          ],
+          "explanation": "Le message donne cette information : De France. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w1:reading:1",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:1:reading:2",
+          "title": "Lire · question 3",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Où habite-t-elle ? Réponds sans aide au premier essai.",
+          "material": "Bonjour, je m’appelle Rémi. Je viens de France. J’habite à Ottawa. Je parle français et espagnol. Je travaille dans une école.",
+          "reference": "Bonjour, je m’appelle Rémi. Je viens de France. J’habite à Ottawa. Je parle français et espagnol. Je travaille dans une école.",
+          "accepted": [
+            "À Ottawa"
+          ],
+          "options": [
+            "À Vancouver",
+            "À Ottawa"
+          ],
+          "explanation": "Le message donne cette information : À Ottawa. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w1:reading:2",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:1:reading:3",
+          "title": "Lire · question 4",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Quelle langue parle-t-elle avec le français ? Réponds sans aide au premier essai.",
+          "material": "Bonjour, je m’appelle Rémi. Je viens de France. J’habite à Ottawa. Je parle français et espagnol. Je travaille dans une école.",
+          "reference": "Bonjour, je m’appelle Rémi. Je viens de France. J’habite à Ottawa. Je parle français et espagnol. Je travaille dans une école.",
+          "accepted": [
+            "L’espagnol"
+          ],
+          "options": [
+            "L’espagnol",
+            "L’anglais"
+          ],
+          "explanation": "Le message donne cette information : L’espagnol. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w1:reading:3",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:1:reading:4",
+          "title": "Lire · question 5",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Où travaille-t-elle ? Réponds sans aide au premier essai.",
+          "material": "Bonjour, je m’appelle Rémi. Je viens de France. J’habite à Ottawa. Je parle français et espagnol. Je travaille dans une école.",
+          "reference": "Bonjour, je m’appelle Rémi. Je viens de France. J’habite à Ottawa. Je parle français et espagnol. Je travaille dans une école.",
+          "accepted": [
+            "Dans une école"
+          ],
+          "options": [
+            "Dans une banque",
+            "Dans une école"
+          ],
+          "explanation": "Le message donne cette information : Dans une école. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w1:reading:4",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:1:listening:0",
+          "title": "Écouter · question 1",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Quel est le prénom ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Bonjour ! Je suis Lucia. Mon nom s’écrit L-U-C-I-A. Je viens du Chili. J’ai vingt-neuf ans. Je suis étudiante à Québec. Je parle espagnol et j’apprends le français.",
+          "accepted": [
+            "Lucia"
+          ],
+          "options": [
+            "Louise",
+            "Lucia"
+          ],
+          "explanation": "Le message donne cette information : Lucia. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w1:listening:0",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:1:listening:1",
+          "title": "Écouter · question 2",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "D’où vient Lucia ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Bonjour ! Je suis Lucia. Mon nom s’écrit L-U-C-I-A. Je viens du Chili. J’ai vingt-neuf ans. Je suis étudiante à Québec. Je parle espagnol et j’apprends le français.",
+          "accepted": [
+            "Du Chili"
+          ],
+          "options": [
+            "Du Chili",
+            "Du Pérou"
+          ],
+          "explanation": "Le message donne cette information : Du Chili. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w1:listening:1",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:1:listening:2",
+          "title": "Écouter · question 3",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Quel âge a Lucia ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Bonjour ! Je suis Lucia. Mon nom s’écrit L-U-C-I-A. Je viens du Chili. J’ai vingt-neuf ans. Je suis étudiante à Québec. Je parle espagnol et j’apprends le français.",
+          "accepted": [
+            "Vingt-neuf ans"
+          ],
+          "options": [
+            "Dix-neuf ans",
+            "Vingt-neuf ans"
+          ],
+          "explanation": "Le message donne cette information : Vingt-neuf ans. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w1:listening:2",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:1:listening:3",
+          "title": "Écouter · question 4",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Quelle est son activité ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Bonjour ! Je suis Lucia. Mon nom s’écrit L-U-C-I-A. Je viens du Chili. J’ai vingt-neuf ans. Je suis étudiante à Québec. Je parle espagnol et j’apprends le français.",
+          "accepted": [
+            "Elle est étudiante"
+          ],
+          "options": [
+            "Elle est étudiante",
+            "Elle est médecin"
+          ],
+          "explanation": "Le message donne cette information : Elle est étudiante. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w1:listening:3",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:1:listening:4",
+          "title": "Écouter · question 5",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Où étudie-t-elle ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Bonjour ! Je suis Lucia. Mon nom s’écrit L-U-C-I-A. Je viens du Chili. J’ai vingt-neuf ans. Je suis étudiante à Québec. Je parle espagnol et j’apprends le français.",
+          "accepted": [
+            "À Québec"
+          ],
+          "options": [
+            "À Toronto",
+            "À Québec"
+          ],
+          "explanation": "Le message donne cette information : À Québec. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w1:listening:4",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:1:writing",
+          "title": "Production écrite",
+          "skill": "writing",
+          "mode": "open",
+          "prompt": "Escribe un mensaje de 30 palabras para organizar una nueva situación relacionada con «Rencontrer un collègue»: preséntate, pregunta un dato y propone una alternativa. Usa información distinta a los textos.",
+          "reference": "",
+          "item": "fr:assessment:w1:writing",
+          "explanation": "Revisa cumplimiento, claridad, vocabulario y autonomía. El modelo ofrece orientación; conserva la revisión de un tutor cuando esté disponible.",
+          "minutes": 15,
+          "block": "Producción · transferencia",
+          "origin": "Evaluación original · rúbrica del curso"
+        },
+        {
+          "key": "eval:1:speaking",
+          "title": "Production orale",
+          "skill": "speaking",
+          "mode": "speak",
+          "prompt": "Sin leer: preséntate, explica qué quieres hacer y formula dos preguntas sobre «Rencontrer un collègue». Después responde a una pregunta imprevista de un compañero o cambia un dato.",
+          "reference": "",
+          "item": "fr:assessment:w1:speaking",
+          "explanation": "Revisa cumplimiento, claridad, vocabulario y autonomía. El modelo ofrece orientación; conserva la revisión de un tutor cuando esté disponible.",
+          "minutes": 15,
+          "block": "Producción · transferencia",
+          "origin": "Evaluación original · rúbrica del curso"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "Control semanal 2 · Un nouveau logement",
+      "activities": [
+        {
+          "key": "eval:2:reading:0",
+          "title": "Lire · question 1",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Combien de personnes y a-t-il dans la famille ? Réponds sans aide au premier essai.",
+          "material": "Je m’appelle Benoît. Ma famille compte quatre personnes : mes parents, ma sœur et moi. Mon père est cuisinier. Ma sœur aime lire. Nous habitons dans une maison avec trois chambres.",
+          "reference": "Je m’appelle Benoît. Ma famille compte quatre personnes : mes parents, ma sœur et moi. Mon père est cuisinier. Ma sœur aime lire. Nous habitons dans une maison avec trois chambres.",
+          "accepted": [
+            "Quatre"
+          ],
+          "options": [
+            "Trois",
+            "Quatre"
+          ],
+          "explanation": "Le message donne cette information : Quatre. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w2:reading:0",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:2:reading:1",
+          "title": "Lire · question 2",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Benoît a-t-il une sœur ? Réponds sans aide au premier essai.",
+          "material": "Je m’appelle Benoît. Ma famille compte quatre personnes : mes parents, ma sœur et moi. Mon père est cuisinier. Ma sœur aime lire. Nous habitons dans une maison avec trois chambres.",
+          "reference": "Je m’appelle Benoît. Ma famille compte quatre personnes : mes parents, ma sœur et moi. Mon père est cuisinier. Ma sœur aime lire. Nous habitons dans une maison avec trois chambres.",
+          "accepted": [
+            "Oui"
+          ],
+          "options": [
+            "Oui",
+            "Non"
+          ],
+          "explanation": "Le message donne cette information : Oui. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w2:reading:1",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:2:reading:2",
+          "title": "Lire · question 3",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Quelle est la profession du père ? Réponds sans aide au premier essai.",
+          "material": "Je m’appelle Benoît. Ma famille compte quatre personnes : mes parents, ma sœur et moi. Mon père est cuisinier. Ma sœur aime lire. Nous habitons dans une maison avec trois chambres.",
+          "reference": "Je m’appelle Benoît. Ma famille compte quatre personnes : mes parents, ma sœur et moi. Mon père est cuisinier. Ma sœur aime lire. Nous habitons dans une maison avec trois chambres.",
+          "accepted": [
+            "Cuisinier"
+          ],
+          "options": [
+            "Professeur",
+            "Cuisinier"
+          ],
+          "explanation": "Le message donne cette information : Cuisinier. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w2:reading:2",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:2:reading:3",
+          "title": "Lire · question 4",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Qu’aime faire sa sœur ? Réponds sans aide au premier essai.",
+          "material": "Je m’appelle Benoît. Ma famille compte quatre personnes : mes parents, ma sœur et moi. Mon père est cuisinier. Ma sœur aime lire. Nous habitons dans une maison avec trois chambres.",
+          "reference": "Je m’appelle Benoît. Ma famille compte quatre personnes : mes parents, ma sœur et moi. Mon père est cuisinier. Ma sœur aime lire. Nous habitons dans une maison avec trois chambres.",
+          "accepted": [
+            "Lire"
+          ],
+          "options": [
+            "Lire",
+            "Courir"
+          ],
+          "explanation": "Le message donne cette information : Lire. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w2:reading:3",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:2:reading:4",
+          "title": "Lire · question 5",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Combien de chambres a la maison ? Réponds sans aide au premier essai.",
+          "material": "Je m’appelle Benoît. Ma famille compte quatre personnes : mes parents, ma sœur et moi. Mon père est cuisinier. Ma sœur aime lire. Nous habitons dans une maison avec trois chambres.",
+          "reference": "Je m’appelle Benoît. Ma famille compte quatre personnes : mes parents, ma sœur et moi. Mon père est cuisinier. Ma sœur aime lire. Nous habitons dans une maison avec trois chambres.",
+          "accepted": [
+            "Trois"
+          ],
+          "options": [
+            "Deux",
+            "Trois"
+          ],
+          "explanation": "Le message donne cette information : Trois. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w2:reading:4",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:2:listening:0",
+          "title": "Écouter · question 1",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Où est le logement ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "À louer : appartement de deux chambres à Laval. La cuisine est grande. Le quartier est calme. Il y a une école près du logement. Pour une visite, appelez vendredi.",
+          "accepted": [
+            "À Laval"
+          ],
+          "options": [
+            "À Québec",
+            "À Laval"
+          ],
+          "explanation": "Le message donne cette information : À Laval. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w2:listening:0",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:2:listening:1",
+          "title": "Écouter · question 2",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Combien de chambres a-t-il ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "À louer : appartement de deux chambres à Laval. La cuisine est grande. Le quartier est calme. Il y a une école près du logement. Pour une visite, appelez vendredi.",
+          "accepted": [
+            "Deux"
+          ],
+          "options": [
+            "Deux",
+            "Une"
+          ],
+          "explanation": "Le message donne cette information : Deux. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w2:listening:1",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:2:listening:2",
+          "title": "Écouter · question 3",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Comment est la cuisine ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "À louer : appartement de deux chambres à Laval. La cuisine est grande. Le quartier est calme. Il y a une école près du logement. Pour une visite, appelez vendredi.",
+          "accepted": [
+            "Grande"
+          ],
+          "options": [
+            "Petite",
+            "Grande"
+          ],
+          "explanation": "Le message donne cette information : Grande. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w2:listening:2",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:2:listening:3",
+          "title": "Écouter · question 4",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Qu’y a-t-il près du logement ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "À louer : appartement de deux chambres à Laval. La cuisine est grande. Le quartier est calme. Il y a une école près du logement. Pour une visite, appelez vendredi.",
+          "accepted": [
+            "Une école"
+          ],
+          "options": [
+            "Une école",
+            "Une gare"
+          ],
+          "explanation": "Le message donne cette information : Une école. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w2:listening:3",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:2:listening:4",
+          "title": "Écouter · question 5",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Quand faut-il appeler ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "À louer : appartement de deux chambres à Laval. La cuisine est grande. Le quartier est calme. Il y a une école près du logement. Pour une visite, appelez vendredi.",
+          "accepted": [
+            "Vendredi"
+          ],
+          "options": [
+            "Samedi",
+            "Vendredi"
+          ],
+          "explanation": "Le message donne cette information : Vendredi. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w2:listening:4",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:2:writing",
+          "title": "Production écrite",
+          "skill": "writing",
+          "mode": "open",
+          "prompt": "Escribe un mensaje de 40 palabras para organizar una nueva situación relacionada con «Un nouveau logement»: preséntate, pregunta un dato y propone una alternativa. Usa información distinta a los textos.",
+          "reference": "",
+          "item": "fr:assessment:w2:writing",
+          "explanation": "Revisa cumplimiento, claridad, vocabulario y autonomía. El modelo ofrece orientación; conserva la revisión de un tutor cuando esté disponible.",
+          "minutes": 15,
+          "block": "Producción · transferencia",
+          "origin": "Evaluación original · rúbrica del curso"
+        },
+        {
+          "key": "eval:2:speaking",
+          "title": "Production orale",
+          "skill": "speaking",
+          "mode": "speak",
+          "prompt": "Sin leer: preséntate, explica qué quieres hacer y formula dos preguntas sobre «Un nouveau logement». Después responde a una pregunta imprevista de un compañero o cambia un dato.",
+          "reference": "",
+          "item": "fr:assessment:w2:speaking",
+          "explanation": "Revisa cumplimiento, claridad, vocabulario y autonomía. El modelo ofrece orientación; conserva la revisión de un tutor cuando esté disponible.",
+          "minutes": 15,
+          "block": "Producción · transferencia",
+          "origin": "Evaluación original · rúbrica del curso"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "title": "Control semanal 3 · Une sortie en ville",
+      "activities": [
+        {
+          "key": "eval:3:reading:0",
+          "title": "Lire · question 1",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Quel jour est le rendez-vous ? Réponds sans aide au premier essai.",
+          "material": "Message de Louis : Rendez-vous devant la mairie samedi. Le café est à gauche de la mairie. Je vais prendre une soupe à neuf dollars et une eau à deux dollars. Après, nous allons à pied au musée.",
+          "reference": "Message de Louis : Rendez-vous devant la mairie samedi. Le café est à gauche de la mairie. Je vais prendre une soupe à neuf dollars et une eau à deux dollars. Après, nous allons à pied au musée.",
+          "accepted": [
+            "Samedi"
+          ],
+          "options": [
+            "Dimanche",
+            "Samedi"
+          ],
+          "explanation": "Le message donne cette information : Samedi. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w3:reading:0",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:3:reading:1",
+          "title": "Lire · question 2",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Où est le café ? Réponds sans aide au premier essai.",
+          "material": "Message de Louis : Rendez-vous devant la mairie samedi. Le café est à gauche de la mairie. Je vais prendre une soupe à neuf dollars et une eau à deux dollars. Après, nous allons à pied au musée.",
+          "reference": "Message de Louis : Rendez-vous devant la mairie samedi. Le café est à gauche de la mairie. Je vais prendre une soupe à neuf dollars et une eau à deux dollars. Après, nous allons à pied au musée.",
+          "accepted": [
+            "À gauche de la mairie"
+          ],
+          "options": [
+            "À gauche de la mairie",
+            "À droite de la mairie"
+          ],
+          "explanation": "Le message donne cette information : À gauche de la mairie. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w3:reading:1",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:3:reading:2",
+          "title": "Lire · question 3",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Combien coûte la soupe ? Réponds sans aide au premier essai.",
+          "material": "Message de Louis : Rendez-vous devant la mairie samedi. Le café est à gauche de la mairie. Je vais prendre une soupe à neuf dollars et une eau à deux dollars. Après, nous allons à pied au musée.",
+          "reference": "Message de Louis : Rendez-vous devant la mairie samedi. Le café est à gauche de la mairie. Je vais prendre une soupe à neuf dollars et une eau à deux dollars. Après, nous allons à pied au musée.",
+          "accepted": [
+            "Neuf dollars"
+          ],
+          "options": [
+            "Deux dollars",
+            "Neuf dollars"
+          ],
+          "explanation": "Le message donne cette information : Neuf dollars. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w3:reading:2",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:3:reading:3",
+          "title": "Lire · question 4",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Quelle boisson Louis choisit-il ? Réponds sans aide au premier essai.",
+          "material": "Message de Louis : Rendez-vous devant la mairie samedi. Le café est à gauche de la mairie. Je vais prendre une soupe à neuf dollars et une eau à deux dollars. Après, nous allons à pied au musée.",
+          "reference": "Message de Louis : Rendez-vous devant la mairie samedi. Le café est à gauche de la mairie. Je vais prendre une soupe à neuf dollars et une eau à deux dollars. Après, nous allons à pied au musée.",
+          "accepted": [
+            "De l’eau"
+          ],
+          "options": [
+            "De l’eau",
+            "Du café"
+          ],
+          "explanation": "Le message donne cette information : De l’eau. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w3:reading:3",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:3:reading:4",
+          "title": "Lire · question 5",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Comment vont-ils au musée ? Réponds sans aide au premier essai.",
+          "material": "Message de Louis : Rendez-vous devant la mairie samedi. Le café est à gauche de la mairie. Je vais prendre une soupe à neuf dollars et une eau à deux dollars. Après, nous allons à pied au musée.",
+          "reference": "Message de Louis : Rendez-vous devant la mairie samedi. Le café est à gauche de la mairie. Je vais prendre une soupe à neuf dollars et une eau à deux dollars. Après, nous allons à pied au musée.",
+          "accepted": [
+            "À pied"
+          ],
+          "options": [
+            "En bus",
+            "À pied"
+          ],
+          "explanation": "Le message donne cette information : À pied. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w3:reading:4",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:3:listening:0",
+          "title": "Écouter · question 1",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Quel bus faut-il prendre ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Pour aller au marché, prenez le bus quarante. Descendez à la deuxième station. Le marché est à droite, près de la poste. Il ouvre à dix heures. Les pommes coûtent quatre dollars le kilo.",
+          "accepted": [
+            "Le quarante"
+          ],
+          "options": [
+            "Le quatorze",
+            "Le quarante"
+          ],
+          "explanation": "Le message donne cette information : Le quarante. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w3:listening:0",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:3:listening:1",
+          "title": "Écouter · question 2",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "À quelle station faut-il descendre ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Pour aller au marché, prenez le bus quarante. Descendez à la deuxième station. Le marché est à droite, près de la poste. Il ouvre à dix heures. Les pommes coûtent quatre dollars le kilo.",
+          "accepted": [
+            "La deuxième"
+          ],
+          "options": [
+            "La deuxième",
+            "La première"
+          ],
+          "explanation": "Le message donne cette information : La deuxième. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w3:listening:1",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:3:listening:2",
+          "title": "Écouter · question 3",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "De quel côté est le marché ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Pour aller au marché, prenez le bus quarante. Descendez à la deuxième station. Le marché est à droite, près de la poste. Il ouvre à dix heures. Les pommes coûtent quatre dollars le kilo.",
+          "accepted": [
+            "À droite"
+          ],
+          "options": [
+            "À gauche",
+            "À droite"
+          ],
+          "explanation": "Le message donne cette information : À droite. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w3:listening:2",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:3:listening:3",
+          "title": "Écouter · question 4",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "À quelle heure ouvre-t-il ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Pour aller au marché, prenez le bus quarante. Descendez à la deuxième station. Le marché est à droite, près de la poste. Il ouvre à dix heures. Les pommes coûtent quatre dollars le kilo.",
+          "accepted": [
+            "À dix heures"
+          ],
+          "options": [
+            "À dix heures",
+            "À neuf heures"
+          ],
+          "explanation": "Le message donne cette information : À dix heures. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w3:listening:3",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:3:listening:4",
+          "title": "Écouter · question 5",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Quel est le prix du kilo de pommes ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Pour aller au marché, prenez le bus quarante. Descendez à la deuxième station. Le marché est à droite, près de la poste. Il ouvre à dix heures. Les pommes coûtent quatre dollars le kilo.",
+          "accepted": [
+            "Quatre dollars"
+          ],
+          "options": [
+            "Trois dollars",
+            "Quatre dollars"
+          ],
+          "explanation": "Le message donne cette information : Quatre dollars. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w3:listening:4",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:3:writing",
+          "title": "Production écrite",
+          "skill": "writing",
+          "mode": "open",
+          "prompt": "Escribe un mensaje de 50 palabras para organizar una nueva situación relacionada con «Une sortie en ville»: preséntate, pregunta un dato y propone una alternativa. Usa información distinta a los textos.",
+          "reference": "",
+          "item": "fr:assessment:w3:writing",
+          "explanation": "Revisa cumplimiento, claridad, vocabulario y autonomía. El modelo ofrece orientación; conserva la revisión de un tutor cuando esté disponible.",
+          "minutes": 15,
+          "block": "Producción · transferencia",
+          "origin": "Evaluación original · rúbrica del curso"
+        },
+        {
+          "key": "eval:3:speaking",
+          "title": "Production orale",
+          "skill": "speaking",
+          "mode": "speak",
+          "prompt": "Sin leer: preséntate, explica qué quieres hacer y formula dos preguntas sobre «Une sortie en ville». Después responde a una pregunta imprevista de un compañero o cambia un dato.",
+          "reference": "",
+          "item": "fr:assessment:w3:speaking",
+          "explanation": "Revisa cumplimiento, claridad, vocabulario y autonomía. El modelo ofrece orientación; conserva la revisión de un tutor cuando esté disponible.",
+          "minutes": 15,
+          "block": "Producción · transferencia",
+          "origin": "Evaluación original · rúbrica del curso"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "title": "Control semanal 4 · Un week-end à organiser",
+      "activities": [
+        {
+          "key": "eval:4:reading:0",
+          "title": "Lire · question 1",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Que va acheter Zoé ? Réponds sans aide au premier essai.",
+          "material": "Message de Zoé : Samedi, je vais acheter une chemise verte en taille quarante-deux. Elle coûte trente-cinq dollars. Ensuite, je vais visiter mon frère à Longueuil. Dimanche, nous allons étudier chez lui.",
+          "reference": "Message de Zoé : Samedi, je vais acheter une chemise verte en taille quarante-deux. Elle coûte trente-cinq dollars. Ensuite, je vais visiter mon frère à Longueuil. Dimanche, nous allons étudier chez lui.",
+          "accepted": [
+            "Une chemise"
+          ],
+          "options": [
+            "Une veste",
+            "Une chemise"
+          ],
+          "explanation": "Le message donne cette information : Une chemise. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w4:reading:0",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:4:reading:1",
+          "title": "Lire · question 2",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Quelle couleur a-t-elle choisie ? Réponds sans aide au premier essai.",
+          "material": "Message de Zoé : Samedi, je vais acheter une chemise verte en taille quarante-deux. Elle coûte trente-cinq dollars. Ensuite, je vais visiter mon frère à Longueuil. Dimanche, nous allons étudier chez lui.",
+          "reference": "Message de Zoé : Samedi, je vais acheter une chemise verte en taille quarante-deux. Elle coûte trente-cinq dollars. Ensuite, je vais visiter mon frère à Longueuil. Dimanche, nous allons étudier chez lui.",
+          "accepted": [
+            "Verte"
+          ],
+          "options": [
+            "Verte",
+            "Bleue"
+          ],
+          "explanation": "Le message donne cette information : Verte. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w4:reading:1",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:4:reading:2",
+          "title": "Lire · question 3",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Quelle taille cherche-t-elle ? Réponds sans aide au premier essai.",
+          "material": "Message de Zoé : Samedi, je vais acheter une chemise verte en taille quarante-deux. Elle coûte trente-cinq dollars. Ensuite, je vais visiter mon frère à Longueuil. Dimanche, nous allons étudier chez lui.",
+          "reference": "Message de Zoé : Samedi, je vais acheter une chemise verte en taille quarante-deux. Elle coûte trente-cinq dollars. Ensuite, je vais visiter mon frère à Longueuil. Dimanche, nous allons étudier chez lui.",
+          "accepted": [
+            "Quarante-deux"
+          ],
+          "options": [
+            "Quarante",
+            "Quarante-deux"
+          ],
+          "explanation": "Le message donne cette information : Quarante-deux. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w4:reading:2",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:4:reading:3",
+          "title": "Lire · question 4",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Combien coûte la chemise ? Réponds sans aide au premier essai.",
+          "material": "Message de Zoé : Samedi, je vais acheter une chemise verte en taille quarante-deux. Elle coûte trente-cinq dollars. Ensuite, je vais visiter mon frère à Longueuil. Dimanche, nous allons étudier chez lui.",
+          "reference": "Message de Zoé : Samedi, je vais acheter une chemise verte en taille quarante-deux. Elle coûte trente-cinq dollars. Ensuite, je vais visiter mon frère à Longueuil. Dimanche, nous allons étudier chez lui.",
+          "accepted": [
+            "Trente-cinq dollars"
+          ],
+          "options": [
+            "Trente-cinq dollars",
+            "Cinquante-trois dollars"
+          ],
+          "explanation": "Le message donne cette information : Trente-cinq dollars. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w4:reading:3",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:4:reading:4",
+          "title": "Lire · question 5",
+          "skill": "reading",
+          "mode": "choice",
+          "prompt": "Que vont-ils faire dimanche ? Réponds sans aide au premier essai.",
+          "material": "Message de Zoé : Samedi, je vais acheter une chemise verte en taille quarante-deux. Elle coûte trente-cinq dollars. Ensuite, je vais visiter mon frère à Longueuil. Dimanche, nous allons étudier chez lui.",
+          "reference": "Message de Zoé : Samedi, je vais acheter une chemise verte en taille quarante-deux. Elle coûte trente-cinq dollars. Ensuite, je vais visiter mon frère à Longueuil. Dimanche, nous allons étudier chez lui.",
+          "accepted": [
+            "Étudier"
+          ],
+          "options": [
+            "Aller au marché",
+            "Étudier"
+          ],
+          "explanation": "Le message donne cette information : Étudier. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w4:reading:4",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:4:listening:0",
+          "title": "Écouter · question 1",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Quel temps est prévu ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Bonjour, ici Élodie. Demain, il va neiger et il va faire moins deux degrés à Québec. Prenez un manteau chaud. Nous allons nous retrouver devant la gare à onze heures. Le déjeuner est prévu au restaurant de la place.",
+          "accepted": [
+            "De la neige"
+          ],
+          "options": [
+            "Du soleil",
+            "De la neige"
+          ],
+          "explanation": "Le message donne cette information : De la neige. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w4:listening:0",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:4:listening:1",
+          "title": "Écouter · question 2",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Dans quelle ville ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Bonjour, ici Élodie. Demain, il va neiger et il va faire moins deux degrés à Québec. Prenez un manteau chaud. Nous allons nous retrouver devant la gare à onze heures. Le déjeuner est prévu au restaurant de la place.",
+          "accepted": [
+            "À Québec"
+          ],
+          "options": [
+            "À Québec",
+            "À Montréal"
+          ],
+          "explanation": "Le message donne cette information : À Québec. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w4:listening:1",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:4:listening:2",
+          "title": "Écouter · question 3",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Quel vêtement est conseillé ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Bonjour, ici Élodie. Demain, il va neiger et il va faire moins deux degrés à Québec. Prenez un manteau chaud. Nous allons nous retrouver devant la gare à onze heures. Le déjeuner est prévu au restaurant de la place.",
+          "accepted": [
+            "Un manteau chaud"
+          ],
+          "options": [
+            "Un short",
+            "Un manteau chaud"
+          ],
+          "explanation": "Le message donne cette information : Un manteau chaud. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w4:listening:2",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:4:listening:3",
+          "title": "Écouter · question 4",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "À quelle heure est le rendez-vous ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Bonjour, ici Élodie. Demain, il va neiger et il va faire moins deux degrés à Québec. Prenez un manteau chaud. Nous allons nous retrouver devant la gare à onze heures. Le déjeuner est prévu au restaurant de la place.",
+          "accepted": [
+            "À onze heures"
+          ],
+          "options": [
+            "À onze heures",
+            "À douze heures"
+          ],
+          "explanation": "Le message donne cette information : À onze heures. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w4:listening:3",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:4:listening:4",
+          "title": "Écouter · question 5",
+          "skill": "listening",
+          "mode": "choice",
+          "prompt": "Où est prévu le déjeuner ? Réponds sans aide au premier essai.",
+          "material": "",
+          "reference": "Bonjour, ici Élodie. Demain, il va neiger et il va faire moins deux degrés à Québec. Prenez un manteau chaud. Nous allons nous retrouver devant la gare à onze heures. Le déjeuner est prévu au restaurant de la place.",
+          "accepted": [
+            "Au restaurant de la place"
+          ],
+          "options": [
+            "À la maison",
+            "Au restaurant de la place"
+          ],
+          "explanation": "Le message donne cette information : Au restaurant de la place. Consulte la référence après ton premier essai.",
+          "item": "fr:assessment:w4:listening:4",
+          "minutes": 5,
+          "block": "Compréhension · sans aide",
+          "origin": "Évaluation originale · réponses revues"
+        },
+        {
+          "key": "eval:4:writing",
+          "title": "Production écrite",
+          "skill": "writing",
+          "mode": "open",
+          "prompt": "Escribe un mensaje de 60 palabras para organizar una nueva situación relacionada con «Un week-end à organiser»: preséntate, pregunta un dato y propone una alternativa. Usa información distinta a los textos.",
+          "reference": "",
+          "item": "fr:assessment:w4:writing",
+          "explanation": "Revisa cumplimiento, claridad, vocabulario y autonomía. El modelo ofrece orientación; conserva la revisión de un tutor cuando esté disponible.",
+          "minutes": 15,
+          "block": "Producción · transferencia",
+          "origin": "Evaluación original · rúbrica del curso"
+        },
+        {
+          "key": "eval:4:speaking",
+          "title": "Production orale",
+          "skill": "speaking",
+          "mode": "speak",
+          "prompt": "Sin leer: preséntate, explica qué quieres hacer y formula dos preguntas sobre «Un week-end à organiser». Después responde a una pregunta imprevista de un compañero o cambia un dato.",
+          "reference": "",
+          "item": "fr:assessment:w4:speaking",
+          "explanation": "Revisa cumplimiento, claridad, vocabulario y autonomía. El modelo ofrece orientación; conserva la revisión de un tutor cuando esté disponible.",
+          "minutes": 15,
+          "block": "Producción · transferencia",
+          "origin": "Evaluación original · rúbrica del curso"
+        }
+      ]
+    }
+  ]
+}

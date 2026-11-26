@@ -1,0 +1,37 @@
+# Environment and Data, and Temp/Cache Files
+do-not-use-backups/
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+.runtime/
+data/
+local-model-tests/.venv/
+local-model-tests/.tools/
+*.tsbuildinfo
+
+# Instrucciones e historial interno
+/AGENTS.md
+/PROMPTS.md
+/PLAN_EDUCATIVO_Y_DESARROLLO.md
+
+# Informes de pruebas locales
+/local-model-tests/RESULTADOS.md
+
+# Resultados y registros de pruebas locales
+/local-model-tests/*-result*.json
+/local-model-tests/text-qwen3-*.json
+
+# Logs
+*.log
+
+# Caché de Ruff
+.ruff_cache/
+
+pdf_classes/

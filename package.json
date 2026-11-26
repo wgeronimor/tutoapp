@@ -1,0 +1,15 @@
+{
+  "name": "tuto-app",
+  "version": "0.1.34",
+  "private": true,
+  "description": "Aplicación local de aprendizaje de francés con práctica guiada, historial y repetición espaciada.",
+  "scripts": {
+    "dev": "pnpm --dir frontend dev",
+    "build": "pnpm --dir frontend build",
+    "start": ".venv/bin/python scripts/start.py",
+    "test": ".venv/bin/python -m pytest",
+    "test:e2e": "pnpm --dir frontend test",
+    "test:all": "pnpm build && pnpm test && pnpm test:e2e"
+  },
+  "packageManager": "pnpm@11.25.0"
+}
